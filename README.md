@@ -12,3 +12,36 @@ AN ONLINE RETAIL STORE LAUNCHED WITH THE AMBITIONS OF CLEARING THOUSANDS OF DOUB
 | MS-EXCEL | IT HELPS IN OPENING THE CSV FILE AND UNDERSTANDING THE DATA STRUCTURE |
 | Python(pandas & matplotlib) | PANDAS WAS USED FOR TRANSFORMING THE RAW DATA, HANDELING THE MISSING VALUES AND CREATING THE NEW COLUMNS. |
 | PowerBI | THROUGH THE POWER BI WE HAVE MADE THE INTERACTIVE DASHBOARD WHICH IS EASIER TO ANALYZE SALES TRENDS, PRODUCT PERFORMANCE AND CUSTOMER BEHAVIOR. |
+
+# Key Highlights
+- Declining Sales Trend
+- Abnormal Distribution Of Product
+- Poor Order Fullfillment
+- Lower Sales In North Side State
+- Unexpected Demand From Tier-Two Metro Cities
+
+# Recomendation
+- Conduct a deep-dive analysis into the reasons for the low sales of "Saree," "Dupatta," and "Top" .
+- Expand marketing and supply chain focus in  North India to maximize sales growth.
+- Accelerate order fulfillment and resolve May–June backlog to reduce cancellations and improve customer trust.
+- Focus on Tier-1 metros with targeted campaigns; expand gradually into Tier-2 cities.
+
+# Conclusion
+- OUR ANALYSIS HIGHLIGHTS SIGHNIFICANT OPERATIONAL GAP IN KEY BUSINESS AREA INCLUDING FINANCE, LOGISTICS AND PRODUCT.
+- THESE FACTORS CREATING NEGATIVELY IMPACT PRODUCT SALES, CUSTOMER SATISFACTION, REGIONAL PERFORMANCE AND OVERALL DEMAND OF PRODUCT.
+- CORRECTIVE ACTION THAT COMPANY SHOULD TAKE ARE IMPOROVE DELIVERY TIME, PRIORITIZING HIGH-POPULATED STATES, MAKING STRATEGY TO INCREASE THE  DEMAND OF LOW SELLING ITEMS ETC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
