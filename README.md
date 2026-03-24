@@ -1,23 +1,23 @@
 # E-Commerce Sales Analysis
 
-## Company Background
+## 1. Company Background
 An online retail store launched with the ambitions of clearing thousands of doubts related to fashion & lifestyle, we inspire consumers to make fashion and lifestyle choices that best suit them. They have a wide assortment of offerings across established national brands, international brands, luxury brands, and emerging labels and designers.Now company is facing multiple operational challenges that create hindrance in achieving its own goal.
 
-# Problem Statement
+# 2. Problem Statement
 The company is currently experiencing operational gaps across multiple areas, including financial, logistics, product management, and customer satisfaction.
 To drill down into these issues, the company is leveraging data-driven insights to optimize operations.
 
-## Project Objectives
+## 3. Project Objectives
 Year by Year company growth rate was going to slow down because of huge operational gap between actual and expected. So company aims to analyze the their e-commerce data to identify and understand business trends, and provide data-driven recommendations to improve sales performance, logistics efficiency, product strategy, and customer satisfaction.
 
-## Tools & Technologies
+## 4. Tools Stack
 | Tools | Usage |
 |-------|----------|
 | MS-EXCEL | IT HELPS IN OPENING THE CSV FILE AND UNDERSTANDING THE DATA STRUCTURE |
 | Python(pandas & matplotlib) | PANDAS WAS USED FOR TRANSFORMING THE RAW DATA, HANDELING THE MISSING VALUES AND CREATING THE NEW COLUMNS. |
 | PowerBI | THROUGH THE POWER BI WE HAVE MADE THE INTERACTIVE DASHBOARD WHICH IS EASIER TO ANALYZE SALES TRENDS, PRODUCT PERFORMANCE AND CUSTOMER BEHAVIOR. |
 
-## Key Operational Challenges & Impacts On Business
+## 5. Key Operational Challenges & Business Impact
 | Challenge | Business Impact |
 |:---|:---|
 | Declining Sales Trend | Reduces overall revenue growth, weakens business performance, and creates difficulty in achieving sales targets. |
@@ -26,12 +26,8 @@ Year by Year company growth rate was going to slow down because of huge operatio
 | Lower Sales in North Side States | Shows weak market penetration in northern regions, limiting business expansion and reducing contribution from a large customer base. |
 | Unexpected Demand from Tier-Two Metro Cities | Creates pressure on inventory and logistics planning, as demand may rise in regions where the company is not fully prepared operationally. |
 
-# Key Highlights
-- Declining Sales Trend
-- Abnormal Distribution Of Product
-- Poor Order Fullfillment
-- Lower Sales In North Side State
-- Unexpected Demand From Tier-Two Metro Cities
+# 6. Charts Walkthrough
+
 
 # Recomendation
 - Conduct a deep-dive analysis into the reasons for the low sales of "Saree," "Dupatta," and "Top" .
