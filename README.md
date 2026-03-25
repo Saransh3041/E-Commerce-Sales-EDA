@@ -27,6 +27,20 @@ Year by Year company growth rate was going to slow down because of huge operatio
 | Unexpected Demand from Tier-Two Metro Cities | Creates pressure on inventory and logistics planning, as demand may rise in regions where the company is not fully prepared operationally. |
 
 # 6. Charts Walkthrough
+| # | Chart Name | Chart Type | What It Says |
+|---|------------|------------|--------------|
+| 1 | Total Revenue | KPI Card with Sparkline | Total revenue is 71.78M with a trend line showing fluctuation over the period |
+| 2 | Total Quantity | KPI Card with Sparkline | 109K units were ordered, with the sparkline showing order volume over time |
+| 3 | Average Order Value | KPI Card with Sparkline | Average order value stands at ₹596.46 across all transactions |
+| 4 | Maximum Order | KPI Card with Sparkline | The highest single order was ₹5,584, with peak activity visible in the sparkline |
+| 5 | Last Day Sale | KPI Card with Area Chart | Last day sales were 412K, falling short of the 772K goal by -46.62% |
+| 6 | Delivery Status | Horizontal Bar Chart | Most orders are Pending (79.72K), followed by Successful (28.77K) and Cancelled (20.46K) — a high pending ratio is a concern |
+| 7 | Total Sales Trend | Dual-Axis Line Chart | The green line (Total Revenue) shows volatile but growing daily sales from Apr–Jun 2022; the purple line (Running Total) shows a steady cumulative increase reaching ~80M |
+| 8 | State & District Total Sale | Choropleth Map | Maharashtra has the darkest shading, making it the top-performing state by sales; southern and western regions show moderate activity |
+| 9 | Product Sizes | Horizontal Bar Chart | Size M leads at 12.63M, followed by L (12.08M) and XL (11.39M); larger sizes (4XL, 5XL, Free) contribute very little revenue |
+| 10 | Category Revenue Table | Data Table | Sets are the top category at ₹35.78M with the highest AOV of ₹748; Kurta and Western Dress follow; Dupatta has the lowest revenue at ₹915 |
+
+
 
 
 # Recomendation
