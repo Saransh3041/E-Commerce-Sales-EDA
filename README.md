@@ -63,7 +63,7 @@ CORRECTIVE ACTION THAT COMPANY SHOULD TAKE ARE IMPOROVE DELIVERY TIME, PRIORITIZ
 
 
 ## 10. Screenshot
-![E-commerce-Sales-EDA](E-Commerce Dashboard.png)
+![E-commerce-Sales-EDA](E-Commerce_Dashboard.png)
 
 
 
