@@ -5,10 +5,14 @@ An online retail store launched with the ambitions of clearing thousands of doub
 
 # 2. Problem Statement
 The company is currently experiencing operational gaps across multiple areas, including financial, logistics, product management, and customer satisfaction.
-To drill down into these issues, the company is leveraging data-driven insights to optimize operations.
+To drill down into these issues, the company is leveraging data-driven insights to optimize operations.So company aims to analyze the their e-commerce data to identify and understand business trends, and provide data-driven recommendations to improve sales performance, logistics efficiency, product strategy, and customer satisfaction.
+
 
 ## 3. Project Objectives
-Year by Year company growth rate was going to slow down because of huge operational gap between actual and expected. So company aims to analyze the their e-commerce data to identify and understand business trends, and provide data-driven recommendations to improve sales performance, logistics efficiency, product strategy, and customer satisfaction.
+ - Examine revenue trends across April–June 2022 to identify peak and low-performing periods, and uncover the reasons behind the declining sales trajectory.
+ -  Identify top-selling categories (Sets, Kurtas) and underperforming ones (Sarees, Dupattas, Tops) to guide inventory and marketing decisions.
+ -  Analyze state and city-level performance to explain the dominance of South India and Tier-1 metros, and identify growth opportunities in North India and Tier-2 cities.
+ -  Use insights from Excel, Python (Pandas), and Power BI to deliver actionable strategies that address operational gaps in finance, logistics, and product management.
 
 ## 4. Tools Stack
 | Tools | Usage |
@@ -45,7 +49,6 @@ Year by Year company growth rate was going to slow down because of huge operatio
 - **Expand The Market Share:** Expand marketing and supply chain focus in  North India to maximize sales growth.
 - **Improve Order Service:** Accelerate order fulfillment and resolve May–June backlog to reduce cancellations and improve customer trust.
 - **Target Tier-1 Metro City:** Focus on Tier-1 metros with targeted campaigns; expand gradually into Tier-2 cities.
-
 
 # 8. Conclusion
 OUR ANALYSIS HIGHLIGHTS SIGHNIFICANT OPERATIONAL GAP IN KEY BUSINESS AREA INCLUDING FINANCE, LOGISTICS AND PRODUCT. KEY FINDINGS SUCH AS ABNORMAL PRODUCT DISTRIBUTION, POOR ORDER STATUS, ONE-SIDED FOCUSES ON REGION ARE THE CONTRIBUTING FACTORS TO DECLINE IN OVERALL SALES PERFORMANCE.
