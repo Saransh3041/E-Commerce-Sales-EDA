@@ -3,7 +3,7 @@
 ## 1. Company Background
 An online retail store launched with the ambitions of clearing thousands of doubts related to fashion & lifestyle, we inspire consumers to make fashion and lifestyle choices that best suit them. They have a wide assortment of offerings across established national brands, international brands, luxury brands, and emerging labels and designers.Now company is facing multiple operational challenges that create hindrance in achieving its own goal.
 
-# 2. Problem Statement
+## 2. Problem Statement
 The company is currently experiencing operational gaps across multiple areas, including financial, logistics, product management, and customer satisfaction.
 To drill down into these issues, the company is leveraging data-driven insights to optimize operations.So company aims to analyze the their e-commerce data to identify and understand business trends, and provide data-driven recommendations to improve sales performance, logistics efficiency, product strategy, and customer satisfaction.
 
@@ -30,7 +30,7 @@ To drill down into these issues, the company is leveraging data-driven insights 
 | Lower Sales in North Side States | Shows weak market penetration in northern regions, limiting business expansion and reducing contribution from a large customer base. |
 | Unexpected Demand from Tier-Two Metro Cities | Creates pressure on inventory and logistics planning, as demand may rise in regions where the company is not fully prepared operationally. |
 
-# 6. Charts Walkthrough
+## 6. Charts Walkthrough
 | # | Chart Name | Chart Type | Key Takeaways|
 |---|------------|------------|--------------|
 | 1 | Total Revenue | KPI Card with Sparkline | Total revenue is 71.78M with a trend line showing fluctuation over the period |
@@ -44,15 +44,23 @@ To drill down into these issues, the company is leveraging data-driven insights 
 | 9 | Product Sizes | Horizontal Bar Chart | Size M leads at 12.63M, followed by L (12.08M) and XL (11.39M); larger sizes (4XL, 5XL, Free) contribute very little revenue |
 | 10 | Category Revenue Table | Data Table | Sets are the top category at ₹35.78M with the highest AOV of ₹748; Kurta and Western Dress follow; Dupatta has the lowest revenue at ₹915 |
 
-# 7. Recomendation
+## 7. Recomendation
 - **Product Management:** Conduct a deep-dive analysis into the reasons for the low sales of "Saree," "Dupatta," and "Top" .
 - **Expand The Market Share:** Expand marketing and supply chain focus in  North India to maximize sales growth.
 - **Improve Order Service:** Accelerate order fulfillment and resolve May–June backlog to reduce cancellations and improve customer trust.
 - **Target Tier-1 Metro City:** Focus on Tier-1 metros with targeted campaigns; expand gradually into Tier-2 cities.
 
-# 8. Conclusion
+## 8. Conclusion
 OUR ANALYSIS HIGHLIGHTS SIGHNIFICANT OPERATIONAL GAP IN KEY BUSINESS AREA INCLUDING FINANCE, LOGISTICS AND PRODUCT. KEY FINDINGS SUCH AS ABNORMAL PRODUCT DISTRIBUTION, POOR ORDER STATUS, ONE-SIDED FOCUSES ON REGION ARE THE CONTRIBUTING FACTORS TO DECLINE IN OVERALL SALES PERFORMANCE.
 CORRECTIVE ACTION THAT COMPANY SHOULD TAKE ARE IMPOROVE DELIVERY TIME, PRIORITIZING HIGH-POPULATED STATES, MAKING STRATEGY TO INCREASE THE  DEMAND OF LOW SELLING ITEMS ETC.
+
+## Screenshot
+
+
+
+
+
+
 
 
 
