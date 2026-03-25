@@ -54,7 +54,15 @@ To drill down into these issues, the company is leveraging data-driven insights 
 OUR ANALYSIS HIGHLIGHTS SIGHNIFICANT OPERATIONAL GAP IN KEY BUSINESS AREA INCLUDING FINANCE, LOGISTICS AND PRODUCT. KEY FINDINGS SUCH AS ABNORMAL PRODUCT DISTRIBUTION, POOR ORDER STATUS, ONE-SIDED FOCUSES ON REGION ARE THE CONTRIBUTING FACTORS TO DECLINE IN OVERALL SALES PERFORMANCE.
 CORRECTIVE ACTION THAT COMPANY SHOULD TAKE ARE IMPOROVE DELIVERY TIME, PRIORITIZING HIGH-POPULATED STATES, MAKING STRATEGY TO INCREASE THE  DEMAND OF LOW SELLING ITEMS ETC.
 
-## Screenshot
+## 9. Author
+**Saransh Goyal**  
+**Email:** goyalsaransh61@gmail.com  
+**LinkedIn:** [linkedin.com/in/saranshgoyal007](https://www.linkedin.com/in/saranshgoyal007/)  
+**GitHub:** [github.com/Saransh3041](https://github.com/Saransh3041)
+
+
+
+## 10. Screenshot
 ![E-commerce-Sales-EDA](E-Commerce Dashboard.png)
 
 
