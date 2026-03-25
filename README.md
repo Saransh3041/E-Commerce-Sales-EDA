@@ -27,7 +27,8 @@ Year by Year company growth rate was going to slow down because of huge operatio
 | Unexpected Demand from Tier-Two Metro Cities | Creates pressure on inventory and logistics planning, as demand may rise in regions where the company is not fully prepared operationally. |
 
 # 6. Charts Walkthrough
-| # | Chart Name | Chart Type | What It Says |
+| # | Chart Name | Chart Type | What It Gives/Key Takeaways
+|
 |---|------------|------------|--------------|
 | 1 | Total Revenue | KPI Card with Sparkline | Total revenue is 71.78M with a trend line showing fluctuation over the period |
 | 2 | Total Quantity | KPI Card with Sparkline | 109K units were ordered, with the sparkline showing order volume over time |
