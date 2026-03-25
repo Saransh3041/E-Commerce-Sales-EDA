@@ -40,22 +40,16 @@ Year by Year company growth rate was going to slow down because of huge operatio
 | 9 | Product Sizes | Horizontal Bar Chart | Size M leads at 12.63M, followed by L (12.08M) and XL (11.39M); larger sizes (4XL, 5XL, Free) contribute very little revenue |
 | 10 | Category Revenue Table | Data Table | Sets are the top category at ₹35.78M with the highest AOV of ₹748; Kurta and Western Dress follow; Dupatta has the lowest revenue at ₹915 |
 
+# 7. Recomendation
+- **Product Management:** Conduct a deep-dive analysis into the reasons for the low sales of "Saree," "Dupatta," and "Top" .
+- **Expand The Market Share:** Expand marketing and supply chain focus in  North India to maximize sales growth.
+- **Improve Order Service:** Accelerate order fulfillment and resolve May–June backlog to reduce cancellations and improve customer trust.
+- **Target Tier-1 Metro City:** Focus on Tier-1 metros with targeted campaigns; expand gradually into Tier-2 cities.
 
 
-
-# Recomendation
-- Conduct a deep-dive analysis into the reasons for the low sales of "Saree," "Dupatta," and "Top" .
-- Expand marketing and supply chain focus in  North India to maximize sales growth.
-- Accelerate order fulfillment and resolve May–June backlog to reduce cancellations and improve customer trust.
-- Focus on Tier-1 metros with targeted campaigns; expand gradually into Tier-2 cities.
-
-# Conclusion
-- OUR ANALYSIS HIGHLIGHTS SIGHNIFICANT OPERATIONAL GAP IN KEY BUSINESS AREA INCLUDING FINANCE, LOGISTICS AND PRODUCT.
-- THESE FACTORS CREATING NEGATIVELY IMPACT PRODUCT SALES, CUSTOMER SATISFACTION, REGIONAL PERFORMANCE AND OVERALL DEMAND OF PRODUCT.
-- CORRECTIVE ACTION THAT COMPANY SHOULD TAKE ARE IMPOROVE DELIVERY TIME, PRIORITIZING HIGH-POPULATED STATES, MAKING STRATEGY TO INCREASE THE  DEMAND OF LOW SELLING ITEMS ETC.
-- BY IMPLEMENTING THESE CORRECTIVE ACTIONS,  THE COMPANY CAN EXPECT IMPROVED DELIVERY EFFECIENCY, HIGHER CUSTOMER SATISFACTION AND INCREASED SALES PERFORMANCE<img width="5112" 
-
-
+# 8. Conclusion
+OUR ANALYSIS HIGHLIGHTS SIGHNIFICANT OPERATIONAL GAP IN KEY BUSINESS AREA INCLUDING FINANCE, LOGISTICS AND PRODUCT. KEY FINDINGS SUCH AS ABNORMAL PRODUCT DISTRIBUTION, POOR ORDER STATUS, ONE-SIDED FOCUSES ON REGION ARE THE CONTRIBUTING FACTORS TO DECLINE IN OVERALL SALES PERFORMANCE.
+CORRECTIVE ACTION THAT COMPANY SHOULD TAKE ARE IMPOROVE DELIVERY TIME, PRIORITIZING HIGH-POPULATED STATES, MAKING STRATEGY TO INCREASE THE  DEMAND OF LOW SELLING ITEMS ETC.
 
 
 
